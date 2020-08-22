@@ -1,0 +1,14 @@
+body {
+    background: linear-gradient(magenta, orange, purple);
+    color: cyan;
+    text-shadow: 0pt 0pt 20pt blue;
+}
+
+button {
+    font-size: 20pt;
+    height: 50pt;
+    width: 50pt;
+    background: radial-gradient(magenta, purple);
+    color: yellow;
+    text-shadow: 0pt 0pt 3pt black;
+}
